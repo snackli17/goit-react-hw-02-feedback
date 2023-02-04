@@ -1,16 +1,4 @@
 import css from "./Statistics.module.css";
-//  const FeedbackOptions = ({options, onLeaveFeedback}) => {
-//     return (
-//         <div className={css.btnMain}>
-//             {options.map((option, index) => (
-//                 <button  className={css.btnFeedback}key={index} onClick={() => onLeaveFeedback(option)}>
-//                     {option}
-//                 </button>
-//             ))}
-//         </div>
-//     )
-
-
 
 const Statistics = ({ good, neutral, bad, total, percent  }) => {
     return (
