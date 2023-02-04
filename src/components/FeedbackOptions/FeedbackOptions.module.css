@@ -1,0 +1,9 @@
+.btnMain {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.btnFeedback {
+    width: 150px;
+    font-size: 25px;
+}
