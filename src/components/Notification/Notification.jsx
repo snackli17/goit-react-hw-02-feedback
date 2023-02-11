@@ -9,5 +9,4 @@ Notification.propTypes = {
     message: PropTypes.string.isRequired,
 }
 
-// geegge
 export default Notification
