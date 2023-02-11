@@ -2,8 +2,14 @@
     display: flex;
     justify-content: center;
     gap: 30px;
+  
 }
 .btnFeedback {
     width: 150px;
     font-size: 25px;
+    background-color: aqua;
+}
+
+.btnFeedback:hover {
+   border: 2px solid yellow;
 }
