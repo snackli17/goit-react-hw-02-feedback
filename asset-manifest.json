@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snackli17/goit-react-hw-02-feedback/static/css/main.3e1d655b.css",
+    "main.js": "/snackli17/goit-react-hw-02-feedback/static/js/main.9d1888e8.js",
+    "index.html": "/snackli17/goit-react-hw-02-feedback/index.html",
+    "main.3e1d655b.css.map": "/snackli17/goit-react-hw-02-feedback/static/css/main.3e1d655b.css.map",
+    "main.9d1888e8.js.map": "/snackli17/goit-react-hw-02-feedback/static/js/main.9d1888e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e1d655b.css",
+    "static/js/main.9d1888e8.js"
+  ]
+}
